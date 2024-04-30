@@ -1,3 +1,5 @@
 import random 
 
-random.randint(1, 6)
+roll = random.randint(1, 6)
+
+print("You rolled a " + str(roll) + "!")
