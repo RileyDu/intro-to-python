@@ -11,3 +11,5 @@ total = sum(expenses)
 
 print('Your sum expense is $', total, sep='')
 
+
+# print('Your total expense is $', total, sep='')
