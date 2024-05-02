@@ -19,4 +19,11 @@ def add_acronym():
     with open('acronyms.txt', 'a') as file:
         file.write(acronym + " - " + definition + '\n')
         
-def main()
+def main():
+    choice = input('Do you want to find (F) or add(A) an acronym?')
+    if choice == 'F':
+        find_acronym()
+    elif choice == 'A':
+        add_acronym()
+        
+main()

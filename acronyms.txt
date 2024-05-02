@@ -11,3 +11,4 @@ IaaS - Infastructure as a Service
 ML - Machine Learning
 API - Application Programming Interface
 LOL - Laugh Out Loud
+ROFL - Rolling On The Floor Laughing
