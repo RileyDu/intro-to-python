@@ -1,5 +1,5 @@
 import requests
-city = 'Souix Falls'
+city = 'Denver'
 url = 'http://api.weatherapi.com/v1/current.json?key=b661d7bf48bf43a7857163643240205&q=' + city + '&aqi=no'
 
 response = requests.get(url)
